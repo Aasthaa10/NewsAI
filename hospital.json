@@ -1,0 +1,44 @@
+{
+    "case_timeline": [
+      {
+        "date": "2024-08-09",
+        "event": "Victim, a 31-year-old doctor trainee, was reported missing from RG Kar Medical College and Hospital in Kolkata.",
+        "details": "The young doctor went missing during a break from her shift at the hospital. Initial searches did not yield results, leading to increased concern among colleagues and family members."
+      },
+      {
+        "date": "2024-08-10",
+        "event": "Body of the victim was discovered on the hospital premises.",
+        "details": "The body was found in a restricted area of the hospital. Initial examination indicated signs of sexual assault and physical trauma, sparking immediate public outcry and calls for a thorough investigation."
+      },
+      {
+        "date": "2024-08-12",
+        "event": "Police launch a formal investigation into the case.",
+        "details": "The Kolkata police initiated an investigation, examining CCTV footage and questioning hospital staff and security personnel to identify possible suspects and reconstruct the events leading to the crime."
+      },
+      {
+        "date": "2024-08-14",
+        "event": "Public protests and rallies held in Kolkata, demanding justice.",
+        "details": "Citizens, healthcare workers, and activists took to the streets, urging the authorities to strengthen security in healthcare facilities and expedite the investigation. Hashtags like #JusticeForDr were trending on social media."
+      },
+      {
+        "date": "2024-08-16",
+        "event": "Police identify a primary suspect.",
+        "details": "Based on CCTV footage and witness statements, the police identified and detained a suspect who had been seen entering the restricted area around the time of the victim’s disappearance."
+      },
+      {
+        "date": "2024-08-18",
+        "event": "Suspect undergoes interrogation; investigation continues.",
+        "details": "The suspect was questioned extensively, with forensic evidence from the crime scene being analyzed to establish a connection."
+      },
+      {
+        "date": "2024-08-21",
+        "event": "Government announces measures to improve safety in public hospitals.",
+        "details": "In response to public demands, the government announced plans to install additional security cameras and hire more personnel to ensure a safer environment in healthcare facilities."
+      },
+      {
+        "date": "2024-08-26",
+        "event": "International news covers the incident, amplifying the call for women’s safety reforms.",
+        "details": "Major news outlets such as NPR, BBC, and The Guardian reported on the case, highlighting India’s ongoing challenges with gender-based violence and workplace safety for women."
+      }
+    ]
+  }
